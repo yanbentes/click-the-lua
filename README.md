@@ -1,4 +1,4 @@
-# Clicker Lua 
+# Clicker
 
 Simple click the circle game made with **[Lua](https://www.lua.org/)** and **[Love2D](https://love2d.org/)**
 
@@ -6,8 +6,10 @@ Simple click the circle game made with **[Lua](https://www.lua.org/)** and **[Lo
 
 ### Run
 
+Love2D version 11.3
+
 ` love clicker-lua/ `
 
 ### Credits 
 
-[Challacade](https://youtu.be/wttKHL90Ank)
+[Challacade](https://youtu.be/wttKHL90Ank) youtube tutorial
