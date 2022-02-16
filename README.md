@@ -1,14 +1,15 @@
 # Clicker
 
-Simple click the circle game made with **[Lua](https://www.lua.org/)** and **[Love2D](https://love2d.org/)**
+Click the moon. Made with **[Lua](https://www.lua.org/)** and **[Love2D](https://love2d.org/)** version 11.3.
 
-<img src="click.gif" alt="click the circle" width="400"/>
+<img src="click.gif" alt="click the moon" width="400"/>
 
 ## Run
 
-Love2D version 11.3
-
 ` love clicker-lua/ `
+
+"escape" key quit
+"r" key restart
 
 ## Credits 
 
