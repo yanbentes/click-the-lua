@@ -8,8 +8,8 @@ Click the moon. Made with **[Lua](https://www.lua.org/)** and **[Love2D](https:/
 
 ` love clicker-lua/ `
 
-"escape" key quit
-"r" key restart
+- "escape" key quit
+- "r" key restart
 
 ## Credits 
 
