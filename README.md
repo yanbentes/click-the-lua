@@ -6,7 +6,15 @@ Click the moon. Made with **[Lua](https://www.lua.org/)** and **[Love2D](https:/
 
 ## Run
 
-` love clicker-lua/ `
+First clone the repo
+
+`git clone https://github.com/yanbentes/click-the-lua.git`
+
+then run love
+
+`love click-the-lua/ `
+
+Commands:
 
 - "escape" key quit
 - "r" key restart
